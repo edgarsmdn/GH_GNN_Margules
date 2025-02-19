@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : PROPIONIC ACID + CYCLOHEXANE at 298.15K
+Method: STATIC MANOMETRIC METHOD

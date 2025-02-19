@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : DIBROMOMETHANE + N-BUTANOL at 40.0kPa
+Method: ALL-GLASS DYNAMIC RECIRCULATING STILL

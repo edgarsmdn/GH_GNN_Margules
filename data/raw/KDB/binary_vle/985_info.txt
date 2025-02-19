@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-NONANE + METHANOL at 1.485MPa
+Method: CAILLETET APPARATUS

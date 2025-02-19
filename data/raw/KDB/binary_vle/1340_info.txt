@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-Y Data : CARBON DIOXIDE + BIPHENYL at 35C
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : METHANOL + 2,6-DIMETHYLPYRIDINE at 308.15K
+Method: 

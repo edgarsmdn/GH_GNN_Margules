@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : DIETHYL ETHER + ACETONITRILE at 338.16K
+Method: J. CHEM. ENG. DATA 1979, 24, 16

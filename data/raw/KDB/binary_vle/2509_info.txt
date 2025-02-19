@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANOL + PYRIDINE at 730mmHg
+Method: STATIC METHOD WITH ELECTRICAL HEATING FOR LOW TEMP

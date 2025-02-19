@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL ACETATE + METHANOL at 760mmHg
+Method: USING A COLBURN STILL

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : DIETHYL ETHER + ACETONE at 338.19K
+Method: J. CHEM. ENG. DATA 1979, 24, 16

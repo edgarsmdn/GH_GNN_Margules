@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-PROPANOL + METHYL N-BUTYRATE at 333.15K
+Method: RECIRCULATING STILL , EBULLIOMETER

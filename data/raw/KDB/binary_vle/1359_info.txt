@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : PERFLUOROMETHYLCYCLOHEXANE + N-HEXANE at 93.3kPa
+Method: 

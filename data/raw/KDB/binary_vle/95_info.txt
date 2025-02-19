@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL ETHYL KETONE + N-PROPANOL at 1.0atm
+Method: EBULLIOMETRY

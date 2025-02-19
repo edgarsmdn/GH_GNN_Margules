@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 2-METHYL-2-BUTANOL + N-BUTANOL at 30.00kPa
+Method: ALL-GLASS DYNAMIC RECIRCULATION STILL

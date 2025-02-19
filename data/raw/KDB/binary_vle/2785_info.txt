@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPANOL + 1,4-DIOXANE at 760mmHg
+Method: USING A VAPOR RECIRCULATORY EQUILIBRIUM STILL

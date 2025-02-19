@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : METHANE + N-HEXANE at 17399Pa
+Method: A STATIC METHOD

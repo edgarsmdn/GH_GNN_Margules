@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N,N-DIMETHYLFORMAMIDE + 1,3-BUTADIENE at 78.82C
+Method: PTX METHOD

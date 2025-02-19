@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANE + CARBON DIOXIDE at -20F
+Method: EBULLIOMETRY

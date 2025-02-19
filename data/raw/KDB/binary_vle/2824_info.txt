@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : HYDROGEN FLUORIDE + 1,1,1,2-TETRAFLUOROETHANE at 283.27K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYLENE + 4-METHYL-1-PENTENE at 373.10K
+Method: HIGH PRESSURE CELL IMMERSED IN A LIQUID BATH

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON DIOXIDE + N-BUTANOL at 313.15K
+Method: USING STATIC-CIRCULATION APPARATUS

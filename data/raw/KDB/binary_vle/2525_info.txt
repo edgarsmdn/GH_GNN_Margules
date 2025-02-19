@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : FORMIC ACID + N-VALERIC ACID at 100.0C
+Method: RECIRCULATION

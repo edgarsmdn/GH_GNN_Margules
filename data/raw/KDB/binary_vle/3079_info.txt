@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYLENE + 1-HEXENE at 293.2K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANOL + N-BUTANOL at 760mmHg
+Method: COLBURN EQUILIBRIUM STILL

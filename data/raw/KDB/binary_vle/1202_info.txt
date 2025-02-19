@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLORODIFLUOROMETHANE + ETHANOL at 343.3K
+Method: 

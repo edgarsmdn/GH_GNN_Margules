@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DI-N-BUTYL ETHER + N-HEPTANE at 90C
+Method: MODIGIED GILLESPIE STILL

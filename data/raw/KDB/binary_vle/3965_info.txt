@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLOROTRIFLUOROMETHANE + ISOBUTANE at 310.93K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DICHLOROMETHANE + NITROMETHANE at 298.05K
+Method: EBULLIOMETRY

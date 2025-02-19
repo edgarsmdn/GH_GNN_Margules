@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : TOLUENE + N-OCTANE at 333.15K
+Method: DYNAMIC STILL

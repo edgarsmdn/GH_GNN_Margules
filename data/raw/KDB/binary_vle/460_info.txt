@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 2,2,3-TRIMETHYLBUTANE + CYCLOHEXANE at 744mmHg
+Method: OTHMER PROCEDURE

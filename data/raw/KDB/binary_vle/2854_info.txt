@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : PROPYLENE + SEC-BUTANOL at 353.1K
+Method: A STATIC EQUILIBRIUM CELL (WITH WINDOWS)

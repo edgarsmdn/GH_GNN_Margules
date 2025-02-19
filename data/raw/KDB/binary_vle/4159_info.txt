@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPANOL + TETRACHLOROETHYLENE at 760mmHg
+Method: EBULLIOMETRY METHOD

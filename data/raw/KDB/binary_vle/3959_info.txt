@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYL CARBONATE + CYCLOHEXANE at 298.65K
+Method: 

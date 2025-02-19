@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ISOPROPANOL + WATER at 250C
+Method: 

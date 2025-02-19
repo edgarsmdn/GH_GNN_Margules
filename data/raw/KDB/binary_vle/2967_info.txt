@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : WATER + N-PROPANOL at 100kPa
+Method: RECIRCULATION (USING ALL-GLASS TYPE)

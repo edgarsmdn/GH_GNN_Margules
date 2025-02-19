@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ACETONE + ISOPROPANOL at 25C
+Method: CIRCULATION METHOE

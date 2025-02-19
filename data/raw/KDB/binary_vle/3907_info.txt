@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL PROPIONATE + ETHANOL at 101.32kPa
+Method: CIRCULATION OF VAPOR PHASE

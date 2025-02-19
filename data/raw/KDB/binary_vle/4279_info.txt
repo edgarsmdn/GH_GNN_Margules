@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-HEXANE + CYCLOHEXANE at 31.06mmHg
+Method: STATIC METHOD

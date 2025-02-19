@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ISOBUTANOL + DIMETHYL SULFIDE at 92.5C
+Method: VAPOR RECIRCULATION TYPE

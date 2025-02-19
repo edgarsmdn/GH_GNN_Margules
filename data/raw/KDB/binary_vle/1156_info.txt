@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : TRICHLOROETHYLENE + FURFURAL at 760mmHg
+Method: 

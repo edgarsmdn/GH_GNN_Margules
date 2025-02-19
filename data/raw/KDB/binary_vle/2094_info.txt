@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIETHYL ETHER + METHANOL at 30.00C
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : ACETONE + WATER at 751.5mmHg
+Method: EBULLIOMETRY METHOD

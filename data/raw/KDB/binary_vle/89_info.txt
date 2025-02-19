@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 1-BROMOBUTANE + 1,1,2,2-TETRACHLOROETHANE at 715Torr
+Method: EBULLIOMETRY

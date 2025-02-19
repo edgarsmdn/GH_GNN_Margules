@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + CARBON DIOXIDE at 301.0K
+Method: X1(7) CRITICAL POINT

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIETHYLAMINE + ACETONE at 398.10K
+Method: 

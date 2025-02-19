@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON DIOXIDE + 2-METHYL-1-PENTENE at 343.15K
+Method: 

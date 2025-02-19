@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : N-PROPANOL + BENZENE at 25C
+Method: STATIC METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CYCLOHEXANOL + ETHANE at 453.15K
+Method: USING SEMIFLOW VLE APPARATUS

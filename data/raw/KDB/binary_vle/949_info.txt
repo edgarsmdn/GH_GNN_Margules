@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-HEPTANE + 3-METHYL-1-BUTANOL at 75.00C
+Method: USING RECIRCULATION STILL

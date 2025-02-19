@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DI-N-PROPYL ETHER + N-NONANE at 90C
+Method: MODIGIED GILLESPIE STILL

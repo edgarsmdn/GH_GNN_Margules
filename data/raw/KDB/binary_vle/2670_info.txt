@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : N-BUTANOL + N-HEXANE at 313.08K
+Method: STATIC METHOD

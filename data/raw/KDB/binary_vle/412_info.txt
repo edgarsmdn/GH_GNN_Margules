@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYLCYCLOHEXANE + TOLUENE at 200mmHg
+Method: COLBURN TYPE EQUILIBRIUM STILL

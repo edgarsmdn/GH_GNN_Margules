@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : QUINOLINE + 1-METHYLNAPHTHALENE at 205.3C
+Method: A RECIRCULATING STILL

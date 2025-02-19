@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON TETRACHLORIDE + 1,2-DICHLOROETHANE at 303.15K
+Method: 

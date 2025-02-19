@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 2,4-DIMETHYLPENTANE + BENZENE at 400mmHg
+Method: RECIRCULATING STILL

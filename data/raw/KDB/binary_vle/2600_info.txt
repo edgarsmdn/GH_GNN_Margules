@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ISOPRENE + DICYCLOPENTADIENE at 313.13K
+Method: 

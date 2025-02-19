@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : CARBON TETRACHLORIDE + 2,4-DIMETHYLPENTANE at 760mmHg
+Method: A MODIFIED OTHMER STILL

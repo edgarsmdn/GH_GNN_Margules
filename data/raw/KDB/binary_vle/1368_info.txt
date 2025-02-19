@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON DIOXIDE + ISOPENTANE at 377.7K
+Method: X1(12)  CRITICAL POINT

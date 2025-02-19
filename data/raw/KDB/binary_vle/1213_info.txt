@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLORODIFLUOROMETHANE + CARBON TETRACHLORIDE at 364.3K
+Method: 

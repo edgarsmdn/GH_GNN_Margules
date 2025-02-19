@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANOL + N-HEXANE at 318.15K
+Method: 

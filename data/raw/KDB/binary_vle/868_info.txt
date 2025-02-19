@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : N-BUTANOL + BENZENE at 313.15K
+Method: MODIFIED STATIC METHOD

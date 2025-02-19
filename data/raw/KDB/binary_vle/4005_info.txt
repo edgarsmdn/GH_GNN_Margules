@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 2,3-DIMETHYLBUTANE + METHANOL at 101.3kPa
+Method: MODIFIED ROGALSKI-MALANOWSKI STILL

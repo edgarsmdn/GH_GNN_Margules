@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1-CHLOROBUTANE + ACETONITRILE at 298.69K
+Method: 

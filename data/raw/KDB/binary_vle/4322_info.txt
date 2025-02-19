@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + N-BUTANE at -200.01F
+Method: VAPOR RECIRCULATION TYPE

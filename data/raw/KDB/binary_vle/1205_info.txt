@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLORODIFLUOROMETHANE + ISOPROPANOL at 363.7K
+Method: 

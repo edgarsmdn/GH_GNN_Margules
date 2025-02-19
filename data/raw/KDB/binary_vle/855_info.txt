@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-EICOSANE + ETHANE at 4.373MPa
+Method: CAILLETET APPARATUS

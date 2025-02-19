@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYLENE + ACETONE at 50.0C
+Method: STATIC METHOD

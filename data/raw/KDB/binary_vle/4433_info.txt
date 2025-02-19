@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANE + 1,3,5-TRIMETHYLBENZENE at 473.0K
+Method: 

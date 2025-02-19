@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANE + P-CYMENE at 1atm
+Method: P=ATMOSPHERIC PRESSURE, ACCURACY=+-0.1MMHG

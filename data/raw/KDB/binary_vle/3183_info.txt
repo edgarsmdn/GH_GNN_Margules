@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-PROPANOL + CARBON DISULFIDE at 30C
+Method: A STATIC METHOD

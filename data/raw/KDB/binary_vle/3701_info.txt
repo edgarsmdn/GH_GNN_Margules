@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : 2,6-DIMETHYLPYRIDINE + O-XYLENE at 373.15K
+Method: 

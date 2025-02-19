@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1-HEXANOL + 2,2,4-TRIMETHYLPENTANE at 313.15K
+Method: STATIC EQUILIBRIUM APPARATUS

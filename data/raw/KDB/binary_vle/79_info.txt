@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : PYRIDINE + SULFUR DIOXIDE at 283K
+Method: STATIC METHOD

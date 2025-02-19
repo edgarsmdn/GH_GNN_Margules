@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : GLYCEROL + WATER at 760mmHg
+Method: USING AN IMPROVED OTHMER STILL

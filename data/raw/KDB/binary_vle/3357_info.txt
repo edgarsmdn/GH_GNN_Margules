@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : P-XYLENE + CARBON TETRACHLORIDE at 313.15K
+Method: 

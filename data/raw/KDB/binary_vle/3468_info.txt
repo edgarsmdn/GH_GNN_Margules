@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETIC ACID + WATER at 760mmHg
+Method: AN IMPROVED OTHMER STILL

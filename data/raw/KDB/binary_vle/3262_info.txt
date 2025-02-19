@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-BUTANOL + FURFURAL at 383.15K
+Method: CHEM. ENG. DATA 1984, 29, 156

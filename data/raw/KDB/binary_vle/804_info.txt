@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-PROPIONALDEHYDE + TOLUENE at 313.15K
+Method: THERMOSTATED VLE-APPARATUS

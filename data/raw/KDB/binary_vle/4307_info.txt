@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1-BUTENE + 1,3-BUTADIENE at 100F
+Method: THE METHOD OF MANLEY AND SWIFT

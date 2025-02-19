@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : METHANE + TRIETHYLENE GLYCOL at 298.15K
+Method: 

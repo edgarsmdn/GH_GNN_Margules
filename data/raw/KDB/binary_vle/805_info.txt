@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : BENZENE + VALERALDEHYDE at 313.15K
+Method: THERMOSTATED VLE-APPARATUS

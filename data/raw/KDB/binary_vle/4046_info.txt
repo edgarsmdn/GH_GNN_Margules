@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLORODIFLUOROMETHANE + DIMETHYL ETHER at 383.00K
+Method: 

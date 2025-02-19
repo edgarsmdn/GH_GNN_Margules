@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : AMMONIA + WATER at 610.23K
+Method: TWO DIFFERENT STATIC CELLS

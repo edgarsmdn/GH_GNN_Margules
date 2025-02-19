@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : METHANOL + CARBON DIOXIDE at 15.2atm
+Method: VARIBALE-VOLUME  CELL

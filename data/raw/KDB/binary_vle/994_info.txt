@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-DECANE + METHANOL at 1.325MPa
+Method: CAILLETET APPARATUS

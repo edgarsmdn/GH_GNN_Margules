@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + N-HEXANE at 37.8C
+Method: STATIC METHOD

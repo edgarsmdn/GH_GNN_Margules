@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-PROPANOL + 2-PENTANOL at 313.15K
+Method: VAN NESS APPARATUS(FLUID PHASE EQ. 62 (1991) 239)

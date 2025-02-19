@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-PENTANE + N-PROPIONALDEHYDE at 40C
+Method: 

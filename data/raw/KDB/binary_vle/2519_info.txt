@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : DI-N-PROPYLAMINE + WATER at 30C
+Method: EBULLIOMETRY

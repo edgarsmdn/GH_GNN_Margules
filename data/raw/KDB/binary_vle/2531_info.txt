@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : 1,2-DICHLOROPROPANE + N-PROPIONALDEHYDE at 35C
+Method: STATIC METHOD

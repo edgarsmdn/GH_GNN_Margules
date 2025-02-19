@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANE + TRANS-1,2-DICHLOROETHYLENE at 500mmHg
+Method: 

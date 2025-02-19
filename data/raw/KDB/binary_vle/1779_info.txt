@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON DIOXIDE + METHANOL at 308.15K
+Method: DENSITOMETER(DMA 60, DMA512, DMA 512P)

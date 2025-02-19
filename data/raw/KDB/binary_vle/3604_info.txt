@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPYL N-BUTYRATE + N-PROPANOL at 101.32kPa
+Method: 

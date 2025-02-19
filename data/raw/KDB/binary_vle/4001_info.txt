@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-HEXANE + ANILINE at 101.325kPa
+Method: MODIFIED SMITH AND BONNER TYPE STILL

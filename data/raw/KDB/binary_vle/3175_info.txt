@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANOL + QUINOLINE at 248.0C
+Method: 

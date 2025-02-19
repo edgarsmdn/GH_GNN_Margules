@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : NITROGEN + CARBON DIOXIDE at 220.00K
+Method: 

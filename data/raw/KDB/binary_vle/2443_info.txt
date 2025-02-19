@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANOL + TOLUENE at 60C
+Method: RECIRCULTION METHOD

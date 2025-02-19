@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1-HEXENE + ETHANOL at 60C
+Method: A MODIFIED ELLIS STILL

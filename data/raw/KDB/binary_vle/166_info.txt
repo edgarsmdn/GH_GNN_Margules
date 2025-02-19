@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ARGON + METHANE at 115.2K
+Method: STATIC METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLOROBENZENE + NITROBENZENE at 95.0C
+Method: 

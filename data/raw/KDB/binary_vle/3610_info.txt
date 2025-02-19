@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + CARBON DIOXIDE at 230.00K
+Method: ALL-ACCURACIES OF 0.1% OF THE FULL SCALE READING.

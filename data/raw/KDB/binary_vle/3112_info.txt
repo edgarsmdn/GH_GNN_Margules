@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : P-XYLENE + M-XYLENE at 6.66kPa
+Method: ALL-GLASS, DYNAMIC RECIRCULATING STILL BY WALAS

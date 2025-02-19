@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : M-XYLENE + ANILINE at 745mmHg
+Method: OTHMER STILL

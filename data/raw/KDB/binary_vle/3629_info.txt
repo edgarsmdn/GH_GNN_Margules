@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 1-CHLOROBUTANE + ISOPROPANOL at 94.4kPa
+Method: 

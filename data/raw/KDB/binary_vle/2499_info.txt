@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 2,2,3-TRIMETHYLPENTANE + TOLUENE at 100C
+Method: RECIRCULATION METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : ACETONE + ISOPROPANOL at 524.1mmHg
+Method: EBULLIOMETRY METHOD

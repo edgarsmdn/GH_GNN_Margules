@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANOL + ACETONE at 372.8K
+Method: STATIC HIGH-PRESSURE EQUILIBRIUM FACILITY

@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-HEXANE + N-PROPANOL at 760mmHg
+Method: RECIRCULATION METHOD

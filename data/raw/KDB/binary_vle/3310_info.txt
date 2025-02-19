@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHYL ISOBUTYL KETONE + 1,4-DIOXANE at 313.15K
+Method: 

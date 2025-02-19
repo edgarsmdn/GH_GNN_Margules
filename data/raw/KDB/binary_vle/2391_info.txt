@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANE + 1,1,2,2-TETRACHLOROETHANE at 150mmHg
+Method: 

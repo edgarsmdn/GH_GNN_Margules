@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANE + ISOBUTANE at 219.7F
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + CHLOROTRIFLUOROMETHANE at 199.80K
+Method: 

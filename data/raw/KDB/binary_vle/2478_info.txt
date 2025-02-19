@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-HEXYLAMINE + N-HEXANE at 60C
+Method: EBULLIOMETRY

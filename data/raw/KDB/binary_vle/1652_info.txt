@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : ACETONITRILE + CARBON DIOXIDE at 32.7atm
+Method: VARIBALE-VOLUME  CELL

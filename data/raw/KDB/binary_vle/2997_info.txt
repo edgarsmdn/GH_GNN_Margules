@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : 1-CHLORO-1,1-DIFLUOROETHANE + HYDROGEN CHLORIDE at -40C
+Method: PTX METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + ETHANE at -107.9F
+Method: VAPOR RECYCLE TYPE

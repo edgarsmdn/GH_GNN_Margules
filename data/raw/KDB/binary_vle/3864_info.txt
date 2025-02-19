@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : M-CRESOL + 1,2,3,4-TETRAHYDRONAPHTHALENE at 523.15K
+Method: 

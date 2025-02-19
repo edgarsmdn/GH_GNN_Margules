@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : NITROMETHANE + CHLOROBENZENE at 348.17K
+Method: 

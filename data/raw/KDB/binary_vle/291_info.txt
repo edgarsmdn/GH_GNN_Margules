@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETONE + WATER at 100psi
+Method: RECIRCULATING TYPE

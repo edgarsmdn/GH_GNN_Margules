@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : BENZENE + 2-METHYL-1-PENTENE at 30C
+Method: STATIC METHOD

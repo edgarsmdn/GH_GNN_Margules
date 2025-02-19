@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : TERT-BUTANOL + 2-METHYL-2-BUTENE at 100C
+Method: PTX METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : WATER + N-BUTANOL at 323.23K
+Method: A STATIC APPARATUS

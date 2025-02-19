@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYLENE + DIETHYL ETHER at 40C
+Method: STATIC METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : ETHANOL + WATER at 30C
+Method: TOTAL PRESSURE METHOD

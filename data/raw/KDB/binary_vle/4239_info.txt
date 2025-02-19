@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : BENZENE + ETHANOL at 760mmHg
+Method: EBULLIOMETRY METHOD

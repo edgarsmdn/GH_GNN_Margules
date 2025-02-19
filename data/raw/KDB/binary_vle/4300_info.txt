@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIMETHYL SULFOXIDE + ETHYL ACETATE at 45C
+Method: TOTAL PRESSURE METHOD

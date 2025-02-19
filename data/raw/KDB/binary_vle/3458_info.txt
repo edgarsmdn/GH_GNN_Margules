@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 1,2-DICHLOROETHANE + 1,1,1-TRICHLOROETHANE at 710mmHg
+Method: THE OTHMER STILL

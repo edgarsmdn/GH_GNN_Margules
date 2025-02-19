@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : WATER + FORMIC ACID at 200mmHg
+Method: VAPOR RECIRCULATION TYPE

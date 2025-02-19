@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : 3-METHYLHEXANE + N-PROPYLBENZENE at 80C
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ACETONITRILE + NITROMETHANE at 348.17K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON TETRACHLORIDE + 1,4-DICHLOROBUTANE at 303.15K
+Method: 

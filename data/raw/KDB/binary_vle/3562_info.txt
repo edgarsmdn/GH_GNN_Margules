@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : TRICHLOROETHYLENE + ISOPROPANOL at 100kPa
+Method: 

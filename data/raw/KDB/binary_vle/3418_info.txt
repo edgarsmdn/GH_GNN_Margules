@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ETHANOL + N-HEXANE at 760mmHg
+Method: 

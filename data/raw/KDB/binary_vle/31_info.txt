@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-Y Data : METHANE + N-HEXANE at 71.11C
+Method: EBULLIOMETRY

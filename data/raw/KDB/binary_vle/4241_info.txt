@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ACETONE + N-HEPTANE at 65C
+Method: EBULLIOMETRY METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : N-PROPYLAMINE + DIETHYLAMINE at 297.97K
+Method: THE VLE CELLS

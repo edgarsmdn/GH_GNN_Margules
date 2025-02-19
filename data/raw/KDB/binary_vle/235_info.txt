@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETONE + CIS-1,2-DICHLOROETHYLENE at 760mmHg
+Method: RAMSAY-YOUNG DYNAMIC METHOD

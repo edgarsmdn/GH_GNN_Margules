@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : TETRAHYDROFURAN + CYCLOHEXANE at 313.15K
+Method: 

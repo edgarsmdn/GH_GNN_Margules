@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYL ACETATE + N,N-DIMETHYLFORMAMIDE at 40C
+Method: KASSMANN, K.;KNAPP, H. BER BUNSENGES, PHYS. CHEM.,

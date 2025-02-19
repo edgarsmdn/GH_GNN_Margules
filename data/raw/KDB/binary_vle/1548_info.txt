@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-BUTANE + N-BUTANOL at 0.559MPa
+Method: CAILLETET APPARATUS

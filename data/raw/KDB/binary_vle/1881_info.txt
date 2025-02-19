@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHYL TERT-BUTYL ETHER + ETHYL ACETATE at 373.17K
+Method: A STATIC APPARATUS

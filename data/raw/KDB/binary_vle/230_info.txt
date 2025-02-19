@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 1-BROMOBUTANE + TERT-BUTANOL at 101.3kPa
+Method: EBULLIOMETRY, RECIRCULATION METHOD

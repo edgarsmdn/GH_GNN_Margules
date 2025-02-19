@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ACETONE + DIISOPROPYL ETHER at 343.26K
+Method: 

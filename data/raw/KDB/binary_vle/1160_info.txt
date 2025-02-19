@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLORODIFLUOROMETHANE + 1,1,1,2-TETRAFLUOROETHANE at 323.16K
+Method: 

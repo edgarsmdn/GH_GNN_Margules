@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : HYDROGEN + 1,2,3,4-TETRAHYDRONAPHTHALENE at 268.7C
+Method: HIGH PRESSURE, EBULLIOMETRY

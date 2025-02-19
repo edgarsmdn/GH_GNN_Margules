@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : SULFUR DIOXIDE + ACETIC ANHYDRIDE at 20C
+Method: 

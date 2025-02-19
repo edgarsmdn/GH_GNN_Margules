@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : CHLOROMETHANE + METHANOL at 121.39kPa
+Method: STATIC GLASS EQUILIBRIUM CELL

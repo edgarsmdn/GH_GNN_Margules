@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : NITROBENZENE + METHANOL at 50.3C
+Method: PTX METHOD

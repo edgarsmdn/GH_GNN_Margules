@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETONITRILE + WATER at 760mmHg
+Method: A MODIFIED COLBURN EQUILIBRIUM STILL

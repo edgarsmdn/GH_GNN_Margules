@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : WATER + TRIOXANE at 338.15K
+Method: ALL-GLASS STATIC STILL

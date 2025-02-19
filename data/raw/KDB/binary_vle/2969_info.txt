@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYL FORMATE + PHENOL at 320.00K
+Method: SATURATION METHOD

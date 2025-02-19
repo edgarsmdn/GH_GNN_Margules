@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : PROPANE + 1,3,5-TRIMETHYLBENZENE at 403.1K
+Method: 

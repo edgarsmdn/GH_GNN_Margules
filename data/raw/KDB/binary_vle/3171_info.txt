@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : DIETHYLAMINE + ETHYL ACETATE at 348.09K
+Method: THE VLE CELLS

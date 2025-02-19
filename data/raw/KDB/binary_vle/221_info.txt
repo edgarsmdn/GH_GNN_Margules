@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : PROPANE + METHANOL at 393.0K
+Method: STATIC METHOD

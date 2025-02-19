@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1,2,3,4-TETRAHYDRONAPHTHALENE + DIBENZOFURAN at 150C
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 2-METHYLPENTANE + N-HEPTANE at 328.15K
+Method: 

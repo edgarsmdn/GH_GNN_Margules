@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL PROPIONATE + ISOPROPANOL at 101.32kPa
+Method: DYNAMIC METHOD

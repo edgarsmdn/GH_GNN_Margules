@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : DIISOPROPYL ETHER + CARBON TETRACHLORIDE at 760mmHg
+Method: 

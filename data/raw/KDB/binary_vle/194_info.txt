@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : M-XYLENE + CARBON TETRACHLORIDE at 40kPa
+Method: STATIC METHOD

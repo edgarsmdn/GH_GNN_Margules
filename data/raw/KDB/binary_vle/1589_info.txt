@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANOL + DIISOPROPYL ETHER at 330.00K
+Method: RECIRCULATION STILLS

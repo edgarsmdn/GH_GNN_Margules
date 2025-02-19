@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPYL FORMATE + ETHANOL at 101.32kPa
+Method: 

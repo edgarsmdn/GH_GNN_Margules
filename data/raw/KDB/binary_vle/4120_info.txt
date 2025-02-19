@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ETHANOL + CYCLOHEXANE at 760mmHg
+Method: MODIFIED GILLESPIE STILL

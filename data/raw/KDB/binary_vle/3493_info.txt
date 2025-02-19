@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : TOLUENE + 3-METHYL-1-BUTANOL at 107C
+Method: A MODIFIED JONES, SCHOENBORN, AND COLBURN TYPE STI

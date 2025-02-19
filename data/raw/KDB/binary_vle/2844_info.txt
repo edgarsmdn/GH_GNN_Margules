@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1-BUTENE + 1-HEXENE at 373.6K
+Method: HIGH PRESSURE CELL IMMERSED IN A LIQUID BATH

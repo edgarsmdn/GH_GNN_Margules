@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : FORMIC ACID + N,N-DIMETHYLFORMAMIDE at 300mmHg
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ETHANOL + ACETONE at 760mmHg
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 2,2,4-TRIMETHYLPENTANE + 1,1,2,2-TETRACHLOROETHANE at 343.15K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : HYDROGEN + N-BUTANE at 54.5C
+Method: STATIC METHOD, HIGH PRESSURE

@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPYL ACETATE + SEC-BUTANOL at 127.99kPa
+Method: DYNAMIC STILL

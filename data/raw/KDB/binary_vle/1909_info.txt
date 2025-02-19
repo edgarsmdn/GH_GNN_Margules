@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-BUTYL ACETATE + CARBON DIOXIDE at 0.907MPa
+Method: SYNTHETIC METHOD

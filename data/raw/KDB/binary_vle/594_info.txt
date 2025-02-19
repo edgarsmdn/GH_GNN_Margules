@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYLENE + 1-BUTENE at -0.01C
+Method: STATIC METHOD

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-HEPTANE + CYCLOHEXANE at 333.15K
+Method: DYNAMIC METHOD

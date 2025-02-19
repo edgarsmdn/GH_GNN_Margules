@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : HELIUM-4 + 1-METHYLNAPHTHALENE at 704.7K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : METHYL TERT-PENTYL ETHER + O-XYLENE at 2014Pa
+Method: A STATIC EXPERIMENTAL METHOD

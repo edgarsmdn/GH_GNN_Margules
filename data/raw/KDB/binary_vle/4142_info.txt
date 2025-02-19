@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 2,6-DIMETHYLPYRIDINE + WATER at 29.3C
+Method: EBULLIOMETRY TYPE

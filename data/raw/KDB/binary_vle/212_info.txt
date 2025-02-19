@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-BUTANOL + N-PROPYL ACETATE at 101.39kPa
+Method: EBULLIOMETRY, RECIRCULATION METHOD

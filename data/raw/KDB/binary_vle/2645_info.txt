@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X Data : ETHYLBENZENE + P-XYLENE
+Method: RECIRCULATION METHOD

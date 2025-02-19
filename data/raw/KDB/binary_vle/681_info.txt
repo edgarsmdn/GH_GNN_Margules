@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL ACETATE + 1-CHLOROHEXANE at 101.32kPa
+Method: EBULLIOMETRY

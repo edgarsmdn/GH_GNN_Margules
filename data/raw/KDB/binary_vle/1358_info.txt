@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANE + ETHANE at 1atm
+Method: P ACCURACY = +-0.1MMHG

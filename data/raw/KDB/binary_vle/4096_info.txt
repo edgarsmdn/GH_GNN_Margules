@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : WATER + PROPIONIC ACID at 200mmHg
+Method: VAPOR RECIRCULATION TYPE

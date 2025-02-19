@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : NITROGEN + N-HEPTANE at 305.45K
+Method: HIGH PRESSURE, STATIC METHOD

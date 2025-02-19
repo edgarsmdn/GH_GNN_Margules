@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : ISOPROPANOL + WATER at 334.8mmHg
+Method: EBULLIOMETRY METHOD

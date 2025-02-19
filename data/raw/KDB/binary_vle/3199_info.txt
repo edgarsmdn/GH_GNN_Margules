@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : QUINOLINE + M-CRESOL at 180.3C
+Method: A RECIRCULATING STILL

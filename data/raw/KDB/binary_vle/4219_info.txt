@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : 2,2,4-TRIMETHYLPENTANE + ETHYLBENZENE at 80C
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ACETONITRILE + 1,2-DICHLOROETHANE at 302.15K
+Method: 

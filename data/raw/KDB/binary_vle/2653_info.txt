@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ACETIC ACID + N,N-DIMETHYLFORMAMIDE at 110.00C
+Method: 

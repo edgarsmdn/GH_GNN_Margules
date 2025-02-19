@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : TETRAHYDROFURAN + N-PROPYL ACETATE at 101.3kPa
+Method: ALL-GLASS RECIRCULATION STILL

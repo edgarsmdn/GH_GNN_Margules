@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANE + DIPHENYLMETHANE at 350.5C
+Method: 

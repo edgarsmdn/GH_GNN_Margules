@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-METHYLFORMAMIDE + WATER at 313.15K
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : METHANE + METHANE at 323K
+Method: DENSITOMETRIC APPARATUS

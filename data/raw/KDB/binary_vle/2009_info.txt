@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N,N-DIMETHYLFORMAMIDE + BENZALDEHYDE at 105.00C
+Method: 

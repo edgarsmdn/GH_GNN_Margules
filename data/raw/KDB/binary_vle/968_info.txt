@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-HEPTANE + METHANOL at 1.459MPa
+Method: CAILLETET APPARATUS

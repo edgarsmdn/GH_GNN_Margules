@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : 2-CHLOROBUTANE + TERT-BUTANOL at 101.3kPa
+Method: 

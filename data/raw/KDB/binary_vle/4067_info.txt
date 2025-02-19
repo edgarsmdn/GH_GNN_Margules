@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON DIOXIDE + DIFLUOROMETHANE at 50.00F
+Method: VAPOR RECIRCULATION TYPE

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : HYDROGEN SULFIDE + TRIETHYLENE GLYCOL at 398.15K
+Method: 

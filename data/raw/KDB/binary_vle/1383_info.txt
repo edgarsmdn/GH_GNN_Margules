@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : METHANOL + HYDROGEN CHLORIDE at 0.01481bar
+Method: 

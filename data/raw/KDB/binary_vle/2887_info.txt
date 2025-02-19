@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : WATER + ISOPROPANOL at 30kPa
+Method: USING ALL-GLASS DYNAMIC RECIRCULATING STILL

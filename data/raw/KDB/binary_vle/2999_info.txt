@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : N-BUTANE + AMMONIA at 50C
+Method: PTX METHOD

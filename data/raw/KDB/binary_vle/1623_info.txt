@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL ACETATE + SEC-BUTANOL at 74.66kPa
+Method: DYNAMIC STILL

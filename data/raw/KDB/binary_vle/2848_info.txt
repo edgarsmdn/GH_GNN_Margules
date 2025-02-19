@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLOROFORM + 1,2-EPOXYBUTANE at 313.15K
+Method: ALL-GLASS RECIRCULATION STILL

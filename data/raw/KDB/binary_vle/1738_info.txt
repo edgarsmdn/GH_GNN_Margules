@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : METHANE + 2,2,4-TRIMETHYLPENTANE at 8384Pa
+Method: A STATIC METHOD

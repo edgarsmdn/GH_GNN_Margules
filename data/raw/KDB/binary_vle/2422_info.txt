@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANOL + 1-METHYLNAPHTHALENE at 246.4C
+Method: 

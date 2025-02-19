@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANOL + ETHYL ACETATE at 500mmHg
+Method: EBULLIOMETRY

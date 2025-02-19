@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIMETHYL ETHER + 1-BUTENE at 369.33K
+Method: USING VAPOR-RECIRCULATING APPARATUS

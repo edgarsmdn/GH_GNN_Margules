@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETIC ACID + P-XYLENE at 725mmHg
+Method: 

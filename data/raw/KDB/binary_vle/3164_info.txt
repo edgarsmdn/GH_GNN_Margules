@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : DIETHYL ETHER + METHANOL at 298.16K
+Method: J. CHEM. ENG. DATA 1979, 24, 16

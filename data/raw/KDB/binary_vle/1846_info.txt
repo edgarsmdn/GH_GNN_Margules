@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ISOBUTANOL + BROMOBENZENE at 40.0kPa
+Method: ALL-GLASS DYNAMIC RECIRCULATING STILL

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1,2-DIBROMOETHANE + CARBON TETRACHLORIDE at 313.15K
+Method: A STATIC METHOD

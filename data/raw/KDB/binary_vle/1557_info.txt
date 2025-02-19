@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-PENTANE + N-OCTANE at 313.7K
+Method: RECIRCULATING STILL, PRESSURE STABILIZER

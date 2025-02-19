@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ISOPROPANOL + TOLUENE at 550Torr
+Method: RECIRCULATION METHOD

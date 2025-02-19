@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL ACETATE + N-BUTANOL at 1.0atm
+Method: EBULLIOMETRY

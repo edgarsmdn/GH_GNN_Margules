@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X-Y Data : METHYL TERT-BUTYL ETHER + N-BUTANE
+Method: BUBBLE POINT METHOD

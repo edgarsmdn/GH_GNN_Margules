@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYL ACETATE + 1-CHLOROBUTANE at 398.18K
+Method: 

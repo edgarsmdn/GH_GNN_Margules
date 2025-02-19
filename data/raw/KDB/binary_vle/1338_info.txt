@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-Y Data : CARBON DIOXIDE + NAPHTHALENE at 35C
+Method: 

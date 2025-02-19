@@ -1,0 +1,12 @@
+ID Source
+1 Hiak, T., Kurihara, K. and Kojima, K., 1994. Vapor-liquid equilibria for acetone+ chloroform+ methanol and constituent binary systems at 101.3 kPa. Journal of Chemical and Engineering Data, 39(4), pp.714-719.
+2 Rawat, B.S., Goswami, A.N. and Krishna, S., 1980. Isobaric vapour‐liquid equilibria of the ternary system hexane‐benzene‐sulpholane. Journal of Chemical Technology and Biotechnology, 30(1), pp.557-562.
+3 Blanco, B., Sanz, M.T., Beltrán, S., Cabezas, J.L. and Coca, J., 2000. Vapor–liquid equilibria for the ternary system benzene+ n-heptane+ N, N-dimethylformamide at 101.33 kPa. Fluid phase equilibria, 175(1-2), pp.117-124.
+4 Blanco, B., Sanz, M.T., Beltrán, S., Cabezas, J.L. and Coca, J., 2002. Vapor− liquid equilibria of the ternary system benzene+ n-heptane+ N-methylpyrrolidone (NMP) at 101.33 kPa. Journal of Chemical & Engineering Data, 47(5), pp.1167-1170.
+5 Tripathi, R.P. and Asselineau, L., 1975. Isobaric vapor-liquid equilibriums in ternary system benzene-n-heptane-acetonitrile from binary tx measurements. Journal of Chemical and Engineering Data, 20(1), pp.33-40.
+6 Kojima, K., Tochigi, K., Kurihara, K. and Nakamichi, M., 1991. Isobaric vapor-liquid equilibria for acetone+ chloroform+ benzene and the three constituent binary systems. Journal of Chemical and Engineering Data, 36(3), pp.343-345.
+7 Ridgway, K. and Butler, P.A., 1967. Physical properties of the ternary system benzene-cyclohexane-hexane. Journal of Chemical and Engineering Data, 12(4), pp.509-515.
+8 Subbarao, B.V. and Venkatarao, C., 1966. Isobaric Ternary Vapor-Liquid Equilibria. System: Acetone-Carbon Tetrachloride-Benzene. Journal of Chemical and Engineering Data, 11(2), pp.158-162.
+9 Nielsen, R.L. and Weber, J.H., 1959. Vapor-Liquid Equilibria at Subatmospheric Pressures. Binary and Ternary Systems Containing Ethyl Alcohol, Benzene, and n-Heptane. Journal of Chemical and Engineering Data, 4(2), pp.145-151.
+10 Oracz, P. and Warycha, S., 1995. Vapour-liquid equilibria. VII: The ternary system hexane + methanol + acetone at 313.15 K. Fluid Phase Equilibria, 108(1-2), pp.199-211.
+11 Kurihara, K., Hori, H. and Kojima, K., 1998. Vapor− Liquid Equilibrium Data for Acetone+ Methanol+ Benzene, Chloroform+ Methanol+ Benzene, and Constituent Binary Systems at 101.3 KPa. Journal of Chemical & Engineering Data, 43(2), pp.264-268.

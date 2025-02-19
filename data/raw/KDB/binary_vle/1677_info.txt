@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ETHYL ACETATE + N-BUTANOL at 70.5kPa
+Method: CIRCULATION STILL

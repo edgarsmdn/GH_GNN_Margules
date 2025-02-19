@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-HEXANE + BENZENE at 40.07mmHg
+Method: STATIC METHOD

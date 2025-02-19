@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-BUTANOL + TOLUENE at 760mmHg
+Method: MODIFIED GILLESPIE STILL

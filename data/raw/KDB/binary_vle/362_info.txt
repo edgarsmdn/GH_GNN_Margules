@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : NITROMETHANE + NITROETHANE at 200.0mmHg
+Method: A MODIFIED GILLESPIE STILL

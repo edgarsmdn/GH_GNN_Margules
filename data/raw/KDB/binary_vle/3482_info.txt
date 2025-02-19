@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ISOPROPANOL + METHYLCYCLOHEXANE at 500mmHg
+Method: A MODIFIED GILLESPIE STILL

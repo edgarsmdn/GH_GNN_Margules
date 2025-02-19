@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : 2,4,6-TRIMETHYLPYRIDINE + N-PROPYLBENZENE at 373.15K
+Method: 

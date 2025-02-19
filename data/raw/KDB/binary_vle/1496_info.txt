@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CARBON DIOXIDE + ALPHA-METHYLSTYRENE at 393.1K
+Method: 

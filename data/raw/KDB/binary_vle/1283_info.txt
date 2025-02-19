@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1-OCTANOL + ETHYLENE at 338.15K
+Method: X2 IN ORIGINAL TABLE

@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANOL + BENZENE at 760.00mmHg
+Method: USING A VAPOR-CIRCULATING, MODIFIED COLUMN

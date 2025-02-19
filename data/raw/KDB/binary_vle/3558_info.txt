@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : TETRACHLOROETHYLENE + SEC-BUTANOL at 20kPa
+Method: 

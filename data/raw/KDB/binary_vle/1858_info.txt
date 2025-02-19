@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X Data : PHENANTHRENE + TOLUENE
+Method: EBULLIOMETRIC METHOD

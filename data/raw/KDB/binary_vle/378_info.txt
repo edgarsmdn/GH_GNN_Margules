@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : M-XYLENE + TETRAHYDROFURFURYL ALCOHOL at 746mmHg
+Method: OTHMER STILL

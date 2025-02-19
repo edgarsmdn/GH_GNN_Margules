@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPANOL + 1,2-DICHLOROETHANE at 96.7kPa
+Method: 

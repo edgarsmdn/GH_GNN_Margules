@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-HEPTANE + N-BUTANOL at 684mmHg
+Method: A MODIFIED ELLIS AND GARBETT STILL

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : DICHLOROMETHANE + 1-HEXENE at 298.17K
+Method: 

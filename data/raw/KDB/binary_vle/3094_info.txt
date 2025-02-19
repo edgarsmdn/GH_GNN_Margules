@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANOL + 2,2,4-TRIMETHYLPENTANE at 333.15K
+Method: A EQUILIBRIUM STILL

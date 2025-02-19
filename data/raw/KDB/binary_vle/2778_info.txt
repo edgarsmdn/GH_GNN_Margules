@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHANE + N-HEXANE at 150F
+Method: USING VAPOR RECIRCULATION STILL

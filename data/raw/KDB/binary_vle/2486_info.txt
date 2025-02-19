@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-HEXANE + 1,4-DIOXANE at 80C
+Method: MODIFIED COLBURN STILL

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIISOPROPYLAMINE + 1-HEXENE at 60C
+Method: EBULLIOMETRY

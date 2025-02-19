@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETONE + METHYL ETHYL KETONE at 250psi
+Method: RECIRCULATING TYPE

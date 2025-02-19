@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-DECANE + 1-HEPTANOL at 760Torr
+Method: OTHMER STILL USED

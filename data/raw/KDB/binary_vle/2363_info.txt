@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DICHLOROMETHANE + ACETONE at 348.16K
+Method: 

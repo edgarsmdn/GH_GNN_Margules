@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : PHENOL + BENZYL ALCOHOL at 10.00kPa
+Method: RECIRCULATING TYPE EQUILIBRIUM STILL

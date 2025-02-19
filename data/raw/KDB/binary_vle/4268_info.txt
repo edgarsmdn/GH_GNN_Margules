@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-HEPTANE + METHYL N-PROPYL KETONE at 90C
+Method: VAPOR RECIRCULATION TYPE

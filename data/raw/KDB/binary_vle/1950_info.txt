@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-BUTANE + WATER at 150C
+Method: THE EQUILIBRIUM CELL AND THE RECIRCULATION PUMP

@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X-Y Data : ISOPROPANOL + WATER
+Method: HEWLETT PACKARD 5890 S II GC WITH A TCD

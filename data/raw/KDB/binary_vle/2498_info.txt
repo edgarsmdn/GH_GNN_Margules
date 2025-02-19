@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : BENZENE + N-PROPYLBENZENE at 1atm
+Method: RECIRCULATION METHOD

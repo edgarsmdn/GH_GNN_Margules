@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANOL + CARBON DIOXIDE at 25C
+Method: EBULLIOMETRY

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIISOPROPYL ETHER + 2,4-DIMETHYLPENTANE at 343.15K
+Method: 

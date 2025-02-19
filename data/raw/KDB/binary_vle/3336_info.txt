@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : FLUOROMETHANE + NITROUS OXIDE at 182.33K
+Method: 

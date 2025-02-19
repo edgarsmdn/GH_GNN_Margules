@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : N-OCTANE + METHANOL at 1.470MPa
+Method: CAILLETET APPARATUS

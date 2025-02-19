@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : CHLOROTRIFLUOROMETHANE + N-BUTANE at 350.00K
+Method: 

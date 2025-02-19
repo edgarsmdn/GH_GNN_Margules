@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-Y Data : N-HEXANE + N-HEPTANE at 20C
+Method: CLOUD POINT TITRATOR FOR LLE

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : ETHYLENE + PROPANE at 273.06K
+Method: STATIC METHOD

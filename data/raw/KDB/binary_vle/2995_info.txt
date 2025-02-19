@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : METHACRYLONITRILE + METHANOL at 25C
+Method: PTX METHOD

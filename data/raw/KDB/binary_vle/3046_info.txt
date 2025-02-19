@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : METHANOL + TRIOXANE at 343.15K
+Method: ALL-GLASS STATIC STILL

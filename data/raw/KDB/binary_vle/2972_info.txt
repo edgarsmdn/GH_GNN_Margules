@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : TETRACHLOROETHYLENE + N-PROPANOL at 100kPa
+Method: USING DYNAMIC STILL

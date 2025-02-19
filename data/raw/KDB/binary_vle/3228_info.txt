@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : DIPHENYLMETHANE + TOLUENE at 450.15K
+Method: A STATIC EQUILIBRIUM CELL

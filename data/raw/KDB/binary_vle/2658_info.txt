@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ETHYLENE GLYCOL + ACETIC ACID at 500mmHg
+Method: 

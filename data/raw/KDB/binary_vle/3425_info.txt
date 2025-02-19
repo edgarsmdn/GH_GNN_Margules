@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : CYCLOHEXANONE + CYCLOHEXANOL at 100mmHg
+Method: COLBURN VAPOR-RECIRCULATION STILL

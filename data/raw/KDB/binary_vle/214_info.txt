@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPANOL + ETHYL PROPIONATE at 101.39kPa
+Method: EBULLIOMETRY, RECIRCULATION METHOD

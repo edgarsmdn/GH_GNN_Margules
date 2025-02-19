@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X Data : CARBON DIOXIDE + N-EICOSANE at 75C
+Method: SMOOTHED VALUE

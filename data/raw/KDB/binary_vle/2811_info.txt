@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ETHYL ACETATE + ETHANOL at 760mmHg
+Method: DEW AND BUBBLE POINT METHOD

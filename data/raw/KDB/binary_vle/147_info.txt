@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-HEPTANE + N-PENTANOL at 70.75C
+Method: 

@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : BENZENE + QUINOLINE at 709.9K
+Method: FLOW TYPE METHOD

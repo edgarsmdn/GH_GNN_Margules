@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : N-BUTYL ACETATE + N,N-DIMETHYLFORMAMIDE at 90.00C
+Method: 

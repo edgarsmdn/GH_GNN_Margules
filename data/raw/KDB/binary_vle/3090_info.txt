@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 3-METHYL-2-BUTANOL + N-PENTANOL at 373.15K
+Method: ALL-GLASS, DYNAMIC RECIRCULATING STILL

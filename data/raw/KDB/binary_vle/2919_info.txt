@@ -1,0 +1,3 @@
+Success: True
+Title: Random P-T-X Data : PROPANE + N-DECANE at 1.234MPa
+Method: USING VARIABLE-VOLUME BATCH APPARATUS

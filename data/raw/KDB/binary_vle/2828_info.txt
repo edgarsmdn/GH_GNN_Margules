@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-BUTYL PROPIONATE + N-BUTANOL at 101.32kPa
+Method: USING A SMALL CAPACITY EBULLIOMETER

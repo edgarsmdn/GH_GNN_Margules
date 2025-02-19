@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : ACETIC ACID + CYCLOHEXANE at 101.325kPa
+Method: 

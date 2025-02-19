@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPANOL + CHLOROBENZENE at 760mmHg
+Method: EBULLIOMETRY(COLBURN STILL)

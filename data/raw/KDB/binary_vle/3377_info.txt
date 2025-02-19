@@ -1,0 +1,3 @@
+Success: True
+Title: Isothermal P-T-X-Y Data : 1,1,2-TRICHLOROTRIFLUOROETHANE + METHYL ACETATE at 308.15K
+Method: 

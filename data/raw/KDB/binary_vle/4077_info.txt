@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHYL ACETATE + CYCLOHEXANE at 760mmHg
+Method: COLBURN VAPOR RECIRCULATING STILL

@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : N-PROPYL FORMATE + N-PROPANOL at 160.0kPa
+Method: USING EBULLIOMETER

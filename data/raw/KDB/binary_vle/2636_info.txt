@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : METHANOL + 1-BROMOPROPANE at 760mmHg
+Method: RECIRCULATION METHOD

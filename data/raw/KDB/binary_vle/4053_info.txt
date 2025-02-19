@@ -1,0 +1,3 @@
+Success: True
+Title: Isobaric P-T-X-Y Data : BENZOTRIFLUORIDE + CHLOROBENZENE at 101.325kPa
+Method: ISOBARIC STAGE STILL
