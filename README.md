@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code and data used for the analysis presented in the paper [Graph Neural Networks Embedded into Margules Model for Vapor-Liquid Equilibria Prediction](pending_url). The work combines graph neural networks (GNNs) trained exclusively on infinite dilution data with the extended Margules model to predict the vapor-liquid equilibrium (VLE) of binary and ternary mixtures.
+This repository contains the code and data used for the analysis presented in the paper [Graph Neural Networks Embedded into Margules Model for Vapor-Liquid Equilibria Prediction](https://arxiv.org/abs/2502.18998). The work combines graph neural networks (GNNs) trained exclusively on infinite dilution data with the extended Margules model to predict the vapor-liquid equilibrium (VLE) of binary and ternary mixtures.
 
 ## Repository Structure
 
@@ -69,20 +69,19 @@ To execute the full pipeline, simply run:
 If you use this repository in your research, please cite our paper:
 
 ```
-@article{YourCitation2024,
-  author    = {Your Name and Co-Authors},
+@article{sanchezGNN2025,
+  author    = {Edgar Ivan Sanchez Medina and Kai Sundmacher},
   title     = {Graph Neural Networks Embedded into Margules Model for Vapor-Liquid Equilibria Prediction},
-  journal   = {Journal Name},
-  year      = {2024},
-  volume    = {XX},
-  pages     = {XX--XX},
-  doi       = {DOI}
+  journal   = {ArXiv},
+  year      = {2025},
+  doi       = {10.48550/arXiv.2502.18998
+}
 }
 ```
 
 ## License
 
-This project is licensed under the [MIT License]() - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/edgarsmdn/GH_GNN_Margules/blob/main/LICENSE) - see the LICENSE file for details.
 
 ## Contact
 
