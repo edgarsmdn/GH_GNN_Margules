@@ -6,20 +6,22 @@ from tqdm import tqdm
 from src.utils.utils import plot_binary_VLE, create_folder, get_binary_VLE_isobaric, get_binary_VLE_isobaric_unifac, percentage_within_threshold, get_errors_classes, plot_cumulative_errors, plot_heatmap_performance_MAE
 import numpy as np
 from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error, r2_score
+from src.utils.utils import fredenslund_consistency_test
 
-
-# python src/models/05_predict_isobaric.py --version organic_old --jaccard_threshold 0.6 --model GH_GNN_Margules
+# python src/models/05_predict_isobaric.py --version organic_old --jaccard_threshold 0.6 --model GH_GNN_Margules --consistent
 
 if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("--version", help="GH-GNN version to use", type=str)
     parser.add_argument("--jaccard_threshold", help="Jaccard distance threshold to be considered in the predictions", type=str)
     parser.add_argument("--model", help="Model to be used in the predictions", type=str)
+    parser.add_argument("--consistent", help="Whether to run the predictions only with thermodynamically consistent data", action='store_true')
 
     args = parser.parse_args()
     version = args.version
     jaccard_threshold = float(args.jaccard_threshold)
     model = args.model
+    consistent = args.consistent
 
     assert version in ['combined', 'organic', 'organic_old']
     assert model in ['GH_GNN_Margules', 'UNIFAC_Do']
@@ -30,6 +32,19 @@ if __name__ == "__main__":
     # Filter out systems not within Jaccard distance threshold
     df = df[df['Jaccard_distance'] <= jaccard_threshold]
     df_isobaric = df[df['Type'] == 'Isobaric']
+
+    # Consistency
+    if consistent:
+        legendre_order = 5
+        df_consistency = fredenslund_consistency_test(df_isobaric, legendre_order=legendre_order, vle_type='isobaric')
+        merged_df = pd.merge(df_isobaric, df_consistency[['Compound_1', 'Compound_2', 'P_kPa', 'is_consistent']], 
+                            on=['Compound_1', 'Compound_2', 'P_kPa'], 
+                            how='left')
+        df_isobaric = df_isobaric.copy()
+        df_isobaric['is_consistent'] = merged_df['is_consistent'].tolist()
+        df_isobaric = df_isobaric[df_isobaric['is_consistent'] == True]
+
+        # df_isobaric = df_isobaric[~df_isobaric['pred_gamma_1_unifac_do'].isna()]
 
     if model == 'UNIFAC_Do':
         # Take only systems that are feasible to UNIFAC-Do
@@ -154,6 +169,7 @@ if __name__ == "__main__":
             df_system.to_csv(f"{folder}/{c_1['Name']}_{c_2['Name']}_{str(np.round(P, 4))}_predicted.csv", index=False)
 
     y_1_lst = list()
+    T_lst = list()
     for i, row in tqdm(df_isobaric.iterrows(), total=df_isobaric.shape[0], desc='Predicting specific isobaric points'):
         P = row['P_kPa']
         c_1 = {
@@ -187,7 +203,9 @@ if __name__ == "__main__":
         else:
             (x_1, y_1), (x_2, y_2), T = get_binary_VLE_isobaric(P, c_1, c_2, T_bounds, specific=True)
         y_1_lst.append(y_1)
+        T_lst.append(T)
     df_isobaric['y_pred'] = y_1_lst
+    df_isobaric['T_pred'] = T_lst
 
     folder_preds = f"models/{model}/{version}"
     create_folder(folder_preds)
@@ -217,6 +235,24 @@ if __name__ == "__main__":
     fig = plot_heatmap_performance_MAE(df_errors)
     fig.savefig(f"visualization/Isobaric/{version}/{model}/MAE_matrix_{version}_Jaccard{jaccard_threshold}.png", dpi=300, format='png')
     print(f'Number of binary classes: {df_errors["Binary_class"].shape[0]}')
+    
+    # Heatmap of MAE in predicted P
+    df_errors_T = get_errors_classes(df_isobaric, 'isobaric', true_col='T_K', pred_col='T_pred')
+    fig = plot_heatmap_performance_MAE(df_errors_T, vmax=7)
+    fig.savefig(f"visualization/Isothermal/{version}/{model}/MAE_matrix_{version}_Jaccard{jaccard_threshold}_Temperature.png", dpi=300, format='png')
+
+    T_true = df_isobaric['T_K'].to_numpy()
+    T_pred = df_isobaric['T_pred'].to_numpy()
+
+    threshold_P = 2
+    print('*'*100)
+    print('Metrics for predicted temperature')
+    print(f'MAE T: {mean_absolute_error(T_true, T_pred)}')
+    print(f'MAPE T: {mean_absolute_percentage_error(T_true, T_pred)*100}')
+    print(f'R2 T: {r2_score(T_true, T_pred)}')
+    print(f'% AE <=  {threshold_P} T: {percentage_within_threshold(T_true, T_pred, threshold_P)}')
+
+    
 
     # Get perfromance metrics according to observed, interpolation and extrapolation
     if model == 'GH_GNN_Margules':

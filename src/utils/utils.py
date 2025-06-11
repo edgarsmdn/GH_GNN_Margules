@@ -19,6 +19,8 @@ from sklearn.metrics import mean_absolute_error, r2_score
 from scipy.optimize import minimize, minimize_scalar
 from models.GHGNN.ghgnn_old import atom_features, bond_features
 import mpltern
+from scipy.optimize import curve_fit
+from tqdm import tqdm
 
 def cas_to_smiles(cas_rn):
         """
@@ -386,7 +388,7 @@ def create_folder(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-def plot_heatmap_performance_MAE(df_errors):
+def plot_heatmap_performance_MAE(df_errors, vmax=0.1):
     """
     Plots a heatmap of the mean absolute error (MAE) for different binary class combinations.
 
@@ -395,6 +397,7 @@ def plot_heatmap_performance_MAE(df_errors):
             - 'Binary_class': A column containing the binary class combinations (e.g., 'Class_A_Class_B').
             - 'MAE': The mean absolute error for each class combination.
             - 'n_points': The number of data points corresponding to each class combination.
+        vmax (float): Maximum value in the error bar. Default is 0.1.
 
     Returns:
         matplotlib.figure.Figure: The generated heatmap figure with annotations for the number of data points.
@@ -405,12 +408,12 @@ def plot_heatmap_performance_MAE(df_errors):
     annotation_values = df_errors.pivot(index='Class_A', columns='Class_B', values='n_points').fillna(0).astype(int).values
     
     fig = plt.figure(figsize=(10, 8))
-    heatmap = sns.heatmap(heatmap_data, annot=False, cmap='Greys', fmt=".0f", linewidths=0.5, linecolor='gray', vmin=0, vmax=0.1)
+    heatmap = sns.heatmap(heatmap_data, annot=False, cmap='Greys', fmt=".0f", linewidths=0.5, linecolor='gray', vmin=0, vmax=vmax)
     # Add annotation values to the heatmap
     for i, (_, row) in enumerate(heatmap_data.iterrows()):
         for j, val in enumerate(row):
             # Determine color based on MAE value
-            if val > 0.07:  # Change threshold as needed
+            if val > vmax*0.7:  # Change threshold as needed
                 color = 'white'
             else:
                 color = 'black'
@@ -614,7 +617,7 @@ def get_binary_VLE_isothermal(T, c_1, c_2, specific=False, version=None):
 
     return (x_1, y_1), (x_2, y_2), P
 
-def get_errors_classes(df, data_type, models=['']):
+def get_errors_classes(df, data_type, models=[''], true_col='y', pred_col='y_pred'):
     """
     Calculate error metrics (Mean Absolute Error and R-squared) for each binary class in a dataset.
 
@@ -623,6 +626,8 @@ def get_errors_classes(df, data_type, models=['']):
         data_type (str): The type of data being analyzed. Can be 'isothermal', 'isobaric', or other (e.g., 'all').
         models (list of str): A list of model names (or empty string for the default model). Each entry corresponds to 
                             the name of a model to compare. If no models are provided, defaults to the base model.
+        true_col (str): Name of the column in the dataframe containing the true targets. Default is 'y'
+        pred_col (str): Name of the column in the dataframe containing the predicted targets. Default is 'y_pred'
 
     Returns:
         DataFrame: A DataFrame containing the error metrics for each binary class. The columns include:
@@ -655,8 +660,8 @@ def get_errors_classes(df, data_type, models=['']):
             elif data_type == 'isobaric':
                 df_super_spec['system_key'] = df_super_spec['Compound_1'] + '_' + df_super_spec['Compound_2'] + '_' + df_super_spec['P_kPa'].astype(str)
                 n_systems.append(df_super_spec['system_key'].nunique())
-            y_1_true = df_super_spec['y'].to_numpy()
-            y_1_pred = df_super_spec[f'y_pred{model}'].to_numpy()
+            y_1_true = df_super_spec[true_col].to_numpy()
+            y_1_pred = df_super_spec[f'{pred_col}{model}'].to_numpy()
 
             bin_class_MAE.append(mean_absolute_error(y_1_true, y_1_pred))
             bin_class_R2.append(r2_score(y_1_true, y_1_pred))
@@ -1300,6 +1305,105 @@ def plot_ternary_VLE(data, label_top, label_left, label_right):
     return fig
     
         
+def fredenslund_consistency_test(df, legendre_order=3, vle_type='isobaric'):
+    """
+    Apply the Fredenslund consistency test to all binary mixtures in the DataFrame.
+    Code is adapted from https://github.com/Lemonexe/VLizard/blob/master/appPy/src/TD/Fredenslund_test.py
+
+    Parameters:
+        df (pd.DataFrame): Must contain columns: Compound_1, Compound_2, x, y, T_K, P_kPa, P_sat_1, P_sat_2
+        legendre_order (int): Maximum degree of the Legendre polynomial fit.
+        vle_type (str): whether the VLE dataset is isobaric or isothermal.
+
+    Returns:
+        pd.DataFrame: Summary table with mixture info and average absolute deviation.
+    """
+    from src.utils.legendre import get_g_E_poly, get_d_g_E_poly, get_ordered_array_fun
+
+    if vle_type == 'isobaric':
+        var = 'P_kPa'
+    elif vle_type == 'isothermal':
+        var = 'T_K'
     
+    results = []
+
+    # Group by binary system
+    grouped = df.groupby(['Compound_1', 'Compound_2', var])
+
+    for (comp1, comp2, var_val), group in tqdm(grouped, desc='Computing Fredenslund consistency test:'):
+        g = group.copy()
+        g = g.dropna(subset=['x', 'y', 'P_sat_1', 'P_sat_2', var])
+        g = g[(g['gamma_1'] > 0) & (g['gamma_2'] > 0)]
+
+        # Ensure mole fractions are in (0, 1)
+        g = g[(g['x'] > 0) & (g['x'] < 1)]
+
+        if len(g) < legendre_order + 2:
+            # Not enough data to fit polynomial
+            continue
+
+        x_1 = g['x'].values
+        x_2 = 1 - x_1
+        y_1 = g['y'].values
+        y_2 = 1- y_1
+        p = g['P_kPa'].values
+        ps_1 = g['P_sat_1'].values
+        ps_2 = g['P_sat_2'].values
+        gamma_1 = g['gamma_1'].to_numpy()
+        gamma_2 = g['gamma_2'].to_numpy()
+        
+        # 1. Calculate experimental g^E/RT
+        g_E_exp = (x_1 * np.log(gamma_1) + x_2 * np.log(gamma_2))
+
+        # 2. Fit gE/RT vs x1 with Legendre polynomials
+        legendre_array_fun = get_ordered_array_fun(legendre_order, get_g_E_poly)
+        g_E_fun = lambda x, *params: np.sum(params * legendre_array_fun(x).T, 1)
+        params0 = np.ones(legendre_order + 1, dtype='float64')
+        params, *_rest = curve_fit(g_E_fun, x_1, g_E_exp, p0=params0)
+
+        # 3) Predict gE/RT using fit
+        g_E_cal = g_E_fun(x_1, *params)
+
+        # 4) Compute ln(gamma_1)_calc using:
+        legendre_d_array_fun = get_ordered_array_fun(legendre_order, get_d_g_E_poly)
+        d_g_E_cal = np.sum(params * legendre_d_array_fun(x_1).T, 1)
+
+        # 5) Predict y1
+        gamma_1_cal = np.exp(g_E_cal + x_2*d_g_E_cal)
+        gamma_2_cal = np.exp(g_E_cal - x_1*d_g_E_cal)
+
+        p_1_cal = x_1 * gamma_1_cal * ps_1
+        p_2_cal = x_2 * gamma_2_cal * ps_2
+        p_cal = p_1_cal + p_2_cal
+        y_1_cal = p_1_cal / p
+        y_2_cal = p_2_cal / p
+
+        # 6) calculate residuals
+        p_res = (p-p_cal) / p
+        y_1_res = y_1 - y_1_cal
+        y_2_res = y_2 - y_2_cal
+
+        # 7) Compute average statistics
+        p_res_avg = np.mean(abs(p_res))
+        y_1_res_avg = np.mean(abs(y_1_res))
+        y_2_res_avg = np.mean(abs(y_2_res))
+
+        # 8) check consistency
+        # conditions = np.array([p_res_avg, y_1_res_avg, y_2_res_avg]) <= 0.01
+        conditions = np.array([y_1_res_avg, y_2_res_avg]) <= 0.01
+        is_consistent = conditions.all()
+
+        results.append({
+            'Compound_1': comp1,
+            'Compound_2': comp2,
+            f'{var}':var_val,
+            'N_points': len(g),
+            'p_res_avg':p_res_avg,
+            'y_1_res_avg':y_1_res_avg,
+            'y_2_res_avg':y_2_res_avg,
+            'is_consistent': is_consistent
+        })
+
+    return pd.DataFrame(results)
 
 

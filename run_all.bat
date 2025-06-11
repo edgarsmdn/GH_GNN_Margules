@@ -28,6 +28,12 @@ python src/models/04_predict_isothermal.py --version organic_old --jaccard_thres
 python src/models/05_predict_isobaric.py --version organic_old --jaccard_threshold 0.6 --model UNIFAC_Do
 python src/models/06_predict_all.py --version organic_old --jaccard_threshold 0.6 --model UNIFAC_Do
 
+REM Predictions and analysis for binary VLEs that pass Fredenslund's test
+python src/models/04_predict_isothermal.py --version organic_old --jaccard_threshold 0.6 --model GH_GNN_Margules --consistent
+python src/models/04_predict_isothermal.py --version organic_old --jaccard_threshold 0.6 --model UNIFAC_Do --consistent
+python src/models/05_predict_isobaric.py --version organic_old --jaccard_threshold 0.6 --model GH_GNN_Margules --consistent
+python src/models/05_predict_isobaric.py --version organic_old --jaccard_threshold 0.6 --model UNIFAC_Do --consistent
+
 REM Predictions and analysis for ternary VLEs
 python src/models/07_predict_IDACs_for_ternary.py
 python src/models/08_predict_ternary_vles.py --type_vle isothermal --model GH_GNN_Margules
